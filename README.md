@@ -1,9 +1,14 @@
 # 💫About Me :
 🔭 I’m currently working on Microverse Bootcamp
+
 🌱 I’m currently learning JavaScript
+
 💬 Ask me about Web development
+
 📫 How to reach me: superose227@gmail.com
+
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: I am an avid lover of Dee-Jaying
 
 ## 🌐Socials
